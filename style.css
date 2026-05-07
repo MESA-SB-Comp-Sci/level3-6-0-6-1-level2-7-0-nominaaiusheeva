@@ -5,7 +5,7 @@
 }
 
 /* write all your rules below */
-#heading-style{
+h1{
     border: 10px red solid;
     background-color: pink;
     display: flex;
@@ -23,7 +23,7 @@
     border: 10px pink solid;
     background-color: yellow;
     margin: 20px;
-    height: 100px;
+    height: 17vh;
 }
 .purple-text{
     color: purple;
