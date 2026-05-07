@@ -12,22 +12,21 @@
     margin: 40px;
 }
 .box-style1{
-    background-color: cyan;
+    background-color: aquamarine;
     width: 100vw;
     height: 30vh;
     display: flex;
-    justify-content: center;
     align-items: center;
-    margin: 40px;
+    padding: 100px;
 }
 .box-style2{
     border: 10px pink solid;
     background-color: yellow;
-    margin: 50px;
-    padding: 20px;
+    margin: 20px;
+    height: 100px;
 }
 .purple-text{
-    color: plum;
+    color: purple;
 }
 #blue-text{
     color: blue;
