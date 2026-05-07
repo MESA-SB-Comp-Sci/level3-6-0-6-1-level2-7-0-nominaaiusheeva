@@ -5,3 +5,33 @@
 }
 
 /* write all your rules below */
+#heading-style{
+    border: 10px red solid;
+    background-color: pink;
+    display: flex;
+    margin: 40px;
+}
+.box-style1{
+    background-color: cyan;
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+}
+.box-style2{
+    border: 10px pink solid;
+    background-color: yellow;
+    margin: 50px;
+    padding: 20px;
+}
+.purple-text{
+    color: plum;
+}
+#blue-text{
+    color: blue;
+}
+#green-text{
+    color: green;
+}
